@@ -1,0 +1,15 @@
+# Backend virtualenv
+backend/venv/
+
+# Frontend node_modules
+frontend/node_modules/
+
+# Systemowe śmieci
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+
+# pliki tymczasowe edytorów
+*.swp
+
