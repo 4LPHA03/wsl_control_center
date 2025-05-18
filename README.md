@@ -70,9 +70,10 @@ Frontend łączy się z backendem na porcie 8000 i pozwala zarządzać dystrybuc
 
 ---
 
-Endpoint	    Metoda	  Opis
 /wsl/list	    GET	      Lista zainstalowanych WSL
+
 /wsl/start    POST	    Uruchamia wskazaną dystrybucję
+
 /wsl/stop	    POST	    Zatrzymuje dystrybucję
 
 ---
